@@ -1,0 +1,915 @@
+[
+  {
+    "url": "https://belvederehotelnyc.com",
+    "domain": "belvederehotelnyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:30.323Z"
+  },
+  {
+    "url": "https://fourseasons.com",
+    "domain": "fourseasons.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:30.702Z"
+  },
+  {
+    "url": "https://marriott.com",
+    "domain": "marriott.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:30.892Z"
+  },
+  {
+    "url": "https://aman.com",
+    "domain": "aman.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:30.983Z"
+  },
+  {
+    "url": "https://langhamhotels.com",
+    "domain": "langhamhotels.com",
+    "emails": [
+      "info@langhamhotels.com"
+    ],
+    "timestamp": "2025-06-20T20:48:31.135Z"
+  },
+  {
+    "url": "https://mandarinoriental.com",
+    "domain": "mandarinoriental.com",
+    "emails": [
+      "molon-spa@mohg.com"
+    ],
+    "timestamp": "2025-06-20T20:48:31.238Z"
+  },
+  {
+    "url": "https://therockawayhotel.com",
+    "domain": "therockawayhotel.com",
+    "emails": [
+      "hello@therockawayhotel.com"
+    ],
+    "timestamp": "2025-06-20T20:48:31.283Z"
+  },
+  {
+    "url": "https://ihg.com",
+    "domain": "ihg.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:31.937Z"
+  },
+  {
+    "url": "https://publichotels.com",
+    "domain": "publichotels.com",
+    "emails": [
+      "reservationsny@publichotels.com",
+      "5226reservationsny@publichotels.comphone",
+      "reservationsny@publichotels.com"
+    ],
+    "timestamp": "2025-06-20T20:48:32.176Z"
+  },
+  {
+    "url": "https://equinox-hotels.com",
+    "domain": "equinox-hotels.com",
+    "emails": [
+      "reservations.hy@equinox-hotels.com"
+    ],
+    "timestamp": "2025-06-20T20:48:32.839Z"
+  },
+  {
+    "url": "https://parkcentralny.com",
+    "domain": "parkcentralny.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:33.061Z"
+  },
+  {
+    "url": "https://hilton.com",
+    "domain": "hilton.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:33.231Z"
+  },
+  {
+    "url": "https://lynewyorkhotel.com",
+    "domain": "lynewyorkhotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:34.529Z"
+  },
+  {
+    "url": "https://standardhotels.com",
+    "domain": "standardhotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:34.773Z"
+  },
+  {
+    "url": "https://park.marmaranyc.com",
+    "domain": "park.marmaranyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:34.983Z"
+  },
+  {
+    "url": "https://thedominickhotel.com",
+    "domain": "thedominickhotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:35.351Z"
+  },
+  {
+    "url": "https://fitzpatrickhotels.com",
+    "domain": "fitzpatrickhotels.com",
+    "emails": [
+      "reservations@fitzpatrickhotels.com"
+    ],
+    "timestamp": "2025-06-20T20:48:36.584Z"
+  },
+  {
+    "url": "https://gregorianhotel.com",
+    "domain": "gregorianhotel.com",
+    "emails": [
+      "info@gregorianhotel.com"
+    ],
+    "timestamp": "2025-06-20T20:48:36.821Z"
+  },
+  {
+    "url": "https://solitasohohotel.com",
+    "domain": "solitasohohotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:36.919Z"
+  },
+  {
+    "url": "https://royaltonhotel.com",
+    "domain": "royaltonhotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:37.906Z"
+  },
+  {
+    "url": "https://thewilliamvale.com",
+    "domain": "thewilliamvale.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:38.430Z"
+  },
+  {
+    "url": "https://pearlhotelnyc.com",
+    "domain": "pearlhotelnyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:39.760Z"
+  },
+  {
+    "url": "https://empirehotelnyc.com",
+    "domain": "empirehotelnyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:39.795Z"
+  },
+  {
+    "url": "https://parklanenewyork.com",
+    "domain": "parklanenewyork.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:40.291Z"
+  },
+  {
+    "url": "https://loewshotels.com",
+    "domain": "loewshotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:40.482Z"
+  },
+  {
+    "url": "https://affinia.com",
+    "domain": "affinia.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:40.775Z"
+  },
+  {
+    "url": "https://rosewoodhotels.com",
+    "domain": "rosewoodhotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:42.228Z"
+  },
+  {
+    "url": "https://pestana.com",
+    "domain": "pestana.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:42.459Z"
+  },
+  {
+    "url": "https://kitano.princehotels.com",
+    "domain": "kitano.princehotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:42.694Z"
+  },
+  {
+    "url": "https://kixby.com",
+    "domain": "kixby.com",
+    "emails": [
+      "hello@kixby.com"
+    ],
+    "timestamp": "2025-06-20T20:48:42.732Z"
+  },
+  {
+    "url": "https://concordehotelnewyork.com",
+    "domain": "concordehotelnewyork.com",
+    "emails": [
+      "reservations@concordehotelnewyork.com"
+    ],
+    "timestamp": "2025-06-20T20:48:42.885Z"
+  },
+  {
+    "url": "https://theplazany.com",
+    "domain": "theplazany.com",
+    "emails": [
+      "plazareservation@fairmont.com"
+    ],
+    "timestamp": "2025-06-20T20:48:43.180Z"
+  },
+  {
+    "url": "https://edisonhotelnyc.com",
+    "domain": "edisonhotelnyc.com",
+    "emails": [
+      "edisonres@triumphhotels.com",
+      "edisonguestrelations@triumphhotels.com",
+      "columbiaedison@triumphhotels.com"
+    ],
+    "timestamp": "2025-06-20T20:48:45.513Z"
+  },
+  {
+    "url": "https://theparchotel.com",
+    "domain": "theparchotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:47.036Z"
+  },
+  {
+    "url": "https://westhousehotelnewyork.com",
+    "domain": "westhousehotelnewyork.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:47.592Z"
+  },
+  {
+    "url": "https://theknickerbocker.com",
+    "domain": "theknickerbocker.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:47.928Z"
+  },
+  {
+    "url": "https://ink48.com",
+    "domain": "ink48.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:48.491Z"
+  },
+  {
+    "url": "https://choicehotels.com",
+    "domain": "choicehotels.com",
+    "emails": [
+      "info@iatan.org",
+      "grdesk@choicehotels.com",
+      "ihelp@choicehotels.com",
+      "recipient@domain.com",
+      "ihelp@choicehotels.com"
+    ],
+    "timestamp": "2025-06-20T20:48:48.588Z"
+  },
+  {
+    "url": "https://arthousehotelnyc.com",
+    "domain": "arthousehotelnyc.com",
+    "emails": [
+      "connect@arthousehotelnyc.com"
+    ],
+    "timestamp": "2025-06-20T20:48:48.612Z"
+  },
+  {
+    "url": "https://michelangelohotel.com",
+    "domain": "michelangelohotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:48.829Z"
+  },
+  {
+    "url": "https://louvrehotelnyc.com",
+    "domain": "louvrehotelnyc.com",
+    "emails": [
+      "psh.reservations@gmail.comsubmitthanks",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+      "8c4075d5481d476e945486754f783364@sentry.io",
+      "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+      "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+      "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+      "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+      "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+      "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+      "psh.reservations@gmail.com"
+    ],
+    "timestamp": "2025-06-20T20:48:49.381Z"
+  },
+  {
+    "url": "https://nineorchard.com",
+    "domain": "nineorchard.com",
+    "emails": [
+      "rsvp@nineorchard.com"
+    ],
+    "timestamp": "2025-06-20T20:48:49.914Z"
+  },
+  {
+    "url": "https://baccarathotels.com",
+    "domain": "baccarathotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:50.921Z"
+  },
+  {
+    "url": "https://peninsula.com",
+    "domain": "peninsula.com",
+    "emails": [
+      "reservationphk@peninsula.com",
+      "reservationgcsc@peninsula.com"
+    ],
+    "timestamp": "2025-06-20T20:48:51.232Z"
+  },
+  {
+    "url": "https://staygenerator.com",
+    "domain": "staygenerator.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:51.363Z"
+  },
+  {
+    "url": "https://lottenypalace.com",
+    "domain": "lottenypalace.com",
+    "emails": [
+      "reservations@lottenypalace.com"
+    ],
+    "timestamp": "2025-06-20T20:48:51.734Z"
+  },
+  {
+    "url": "https://1hotels.com",
+    "domain": "1hotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:51.828Z"
+  },
+  {
+    "url": "https://warwickhotels.com",
+    "domain": "warwickhotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:52.158Z"
+  },
+  {
+    "url": "https://hotelalameda.com",
+    "domain": "hotelalameda.com",
+    "emails": [
+      "frontdeskgroup@hotelalameda.com"
+    ],
+    "timestamp": "2025-06-20T20:48:52.560Z"
+  },
+  {
+    "url": "https://thecarnegiehotel.com",
+    "domain": "thecarnegiehotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:52.755Z"
+  },
+  {
+    "url": "https://lombardyhotel.com",
+    "domain": "lombardyhotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:53.249Z"
+  },
+  {
+    "url": "https://nh-hotels.com",
+    "domain": "nh-hotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:53.698Z"
+  },
+  {
+    "url": "https://arlohotels.com",
+    "domain": "arlohotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:54.519Z"
+  },
+  {
+    "url": "https://thechelseannewyork.com",
+    "domain": "thechelseannewyork.com",
+    "emails": [
+      "reservations@thechelseannewyork.com"
+    ],
+    "timestamp": "2025-06-20T20:48:55.283Z"
+  },
+  {
+    "url": "https://themarkhotel.com",
+    "domain": "themarkhotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:55.625Z"
+  },
+  {
+    "url": "https://thelucernehotel.com",
+    "domain": "thelucernehotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:56.055Z"
+  },
+  {
+    "url": "https://oyotimessquare.com",
+    "domain": "oyotimessquare.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:56.862Z"
+  },
+  {
+    "url": "https://marltonhotel.com",
+    "domain": "marltonhotel.com",
+    "emails": [
+      "margaux@marltonhotel.com",
+      "reservations@marltonhotel.com",
+      "press@marltonhotel.com"
+    ],
+    "timestamp": "2025-06-20T20:48:57.814Z"
+  },
+  {
+    "url": "https://hgunyc.com",
+    "domain": "hgunyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:58.408Z"
+  },
+  {
+    "url": "https://innatgreatneck.com",
+    "domain": "innatgreatneck.com",
+    "emails": [
+      "reservations@innatgreatneck.com"
+    ],
+    "timestamp": "2025-06-20T20:48:58.735Z"
+  },
+  {
+    "url": "https://archerhotel.com",
+    "domain": "archerhotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:58.812Z"
+  },
+  {
+    "url": "https://tuscanynyc.com",
+    "domain": "tuscanynyc.com",
+    "emails": [
+      "tuscany@luxurban.com"
+    ],
+    "timestamp": "2025-06-20T20:48:59.210Z"
+  },
+  {
+    "url": "https://hotelhaydennyc.com",
+    "domain": "hotelhaydennyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:59.262Z"
+  },
+  {
+    "url": "https://thejewelny.com",
+    "domain": "thejewelny.com",
+    "emails": [
+      "info@thejewelny.com.footer"
+    ],
+    "timestamp": "2025-06-20T20:48:59.518Z"
+  },
+  {
+    "url": "https://heritagehotelnyc.com",
+    "domain": "heritagehotelnyc.com",
+    "emails": [
+      "sales.heritagehotelnyc@gmail.com",
+      "heritagehotelreservations@gmail.com"
+    ],
+    "timestamp": "2025-06-20T20:48:59.698Z"
+  },
+  {
+    "url": "https://www.belvederehotelnyc.com/contact",
+    "domain": "belvederehotelnyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:59.837Z"
+  },
+  {
+    "url": "https://www.belvederehotelnyc.com/about",
+    "domain": "belvederehotelnyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:48:59.956Z"
+  },
+  {
+    "url": "https://www.marriott.com/marriott/aboutmarriott.mi",
+    "domain": "marriott.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:00.302Z"
+  },
+  {
+    "url": "https://thehighlinehotel.com",
+    "domain": "thehighlinehotel.com",
+    "emails": [
+      "26de@x3x32o3h26x3exxh.teo",
+      "info@thehighlinehotel.com"
+    ],
+    "timestamp": "2025-06-20T20:49:00.534Z"
+  },
+  {
+    "url": "https://shorehamhotel.com",
+    "domain": "shorehamhotel.com",
+    "emails": [
+      "reservations@shorehamhotelnyc.com"
+    ],
+    "timestamp": "2025-06-20T20:49:00.940Z"
+  },
+  {
+    "url": "https://www.aman.com/about-us",
+    "domain": "aman.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:01.084Z"
+  },
+  {
+    "url": "https://www.ihg.com/hotels/gb/en/customer-care/contact-us",
+    "domain": "ihg.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:01.510Z"
+  },
+  {
+    "url": "https://www.thedominickhotel.com/contact-us",
+    "domain": "thedominickhotel.com",
+    "emails": [
+      "accountsreceivable@thedominick.com",
+      "reservations@thedominick.com",
+      "ajanzon@thedominick.com",
+      "lbowden@thedominick.com"
+    ],
+    "timestamp": "2025-06-20T20:49:01.779Z"
+  },
+  {
+    "url": "https://www.royaltonhotel.com/about",
+    "domain": "royaltonhotel.com",
+    "emails": [
+      "869-4400reservations@royalton-nyc.com"
+    ],
+    "timestamp": "2025-06-20T20:49:02.386Z"
+  },
+  {
+    "url": "https://leonhotelnyc.com",
+    "domain": "leonhotelnyc.com",
+    "emails": [
+      "info@leonhotelnyc.com",
+      "info@leonhotelnyc.com"
+    ],
+    "timestamp": "2025-06-20T20:49:02.848Z"
+  },
+  {
+    "url": "https://www.pearlhotelnyc.com/contact",
+    "domain": "pearlhotelnyc.com",
+    "emails": [
+      "frontdesk@pearlhotelnyc.com"
+    ],
+    "timestamp": "2025-06-20T20:49:02.883Z"
+  },
+  {
+    "url": "https://www.thewilliamvale.com/about/",
+    "domain": "thewilliamvale.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:02.917Z"
+  },
+  {
+    "url": "https://www.empirehotelnyc.com/contact-location",
+    "domain": "empirehotelnyc.com",
+    "emails": [
+      "reservations@empirehotelnyc.com"
+    ],
+    "timestamp": "2025-06-20T20:49:02.981Z"
+  },
+  {
+    "url": "https://www.pearlhotelnyc.com/about",
+    "domain": "pearlhotelnyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:03.292Z"
+  },
+  {
+    "url": "https://hotel48lexnewyork.com",
+    "domain": "hotel48lexnewyork.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:03.421Z"
+  },
+  {
+    "url": "https://www.solitasohohotel.com/contact-information.htm",
+    "domain": "solitasohohotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:03.513Z"
+  },
+  {
+    "url": "https://nyc.sonesta.com/contact/",
+    "domain": "nyc.sonesta.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:04.428Z"
+  },
+  {
+    "url": "https://ameritanianyc.com",
+    "domain": "ameritanianyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:04.663Z"
+  },
+  {
+    "url": "https://themusehotel.com",
+    "domain": "themusehotel.com",
+    "emails": [
+      "talktous@themusehotel.com"
+    ],
+    "timestamp": "2025-06-20T20:49:04.858Z"
+  },
+  {
+    "url": "https://www.parklanenewyork.com/contact/",
+    "domain": "parklanenewyork.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:05.039Z"
+  },
+  {
+    "url": "https://kitano.princehotels.com/about-us/",
+    "domain": "kitano.princehotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:05.264Z"
+  },
+  {
+    "url": "https://hotelbelleclaire.com",
+    "domain": "hotelbelleclaire.com",
+    "emails": [
+      "hbfom@triumphhotels.com",
+      "belleclaire@triumphhotels.com",
+      "columbiabelleclaire@triumphhotels.com"
+    ],
+    "timestamp": "2025-06-20T20:49:05.460Z"
+  },
+  {
+    "url": "https://www.loewshotels.com/contact-us",
+    "domain": "loewshotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:05.598Z"
+  },
+  {
+    "url": "https://www.rosewoodhotels.com/en/contact",
+    "domain": "rosewoodhotels.com",
+    "emails": [
+      "info@rosewoodhotelgroup.com"
+    ],
+    "timestamp": "2025-06-20T20:49:05.727Z"
+  },
+  {
+    "url": "https://www.rosewoodhotels.com/en/about",
+    "domain": "rosewoodhotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:05.732Z"
+  },
+  {
+    "url": "https://www.theparchotel.com/contact-us.htm",
+    "domain": "theparchotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:06.025Z"
+  },
+  {
+    "url": "https://www.westhousehotelnewyork.com/contact",
+    "domain": "westhousehotelnewyork.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:06.893Z"
+  },
+  {
+    "url": "https://www.theknickerbocker.com/about/contact-us/",
+    "domain": "theknickerbocker.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:07.360Z"
+  },
+  {
+    "url": "https://www.michelangelohotel.com/contact",
+    "domain": "michelangelohotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:07.401Z"
+  },
+  {
+    "url": "https://www.theknickerbocker.com/about/",
+    "domain": "theknickerbocker.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:07.444Z"
+  },
+  {
+    "url": "https://www.baccarathotels.com/contact-us",
+    "domain": "baccarathotels.com",
+    "emails": [
+      "info@baccarathotels.com",
+      "nysales@baccarathotels.com",
+      "nyreservations@baccarathotels.com",
+      "nypublicrelations@baccarathotels.com",
+      "baccarat@weareshadow.com"
+    ],
+    "timestamp": "2025-06-20T20:49:07.669Z"
+  },
+  {
+    "url": "https://www.ink48.com/contact",
+    "domain": "ink48.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:07.874Z"
+  },
+  {
+    "url": "https://staygenerator.com/information/contact-us",
+    "domain": "staygenerator.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:07.949Z"
+  },
+  {
+    "url": "https://www.warwickhotels.com/about-us",
+    "domain": "warwickhotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:08.071Z"
+  },
+  {
+    "url": "https://arlohotels.com/about/",
+    "domain": "arlohotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:08.101Z"
+  },
+  {
+    "url": "https://park.marmaranyc.com/contact-us",
+    "domain": "park.marmaranyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:08.337Z"
+  },
+  {
+    "url": "https://lombardyhotel.com/contact-us/",
+    "domain": "lombardyhotel.com",
+    "emails": [
+      "reservations@lombardyhotel.com"
+    ],
+    "timestamp": "2025-06-20T20:49:08.729Z"
+  },
+  {
+    "url": "https://www.hgunyc.com/more/contact",
+    "domain": "hgunyc.com",
+    "emails": [
+      "sales@hgunyc.comfor",
+      "events@hgunyc.comfor",
+      "welcomedesk@hgunyc.comhgu"
+    ],
+    "timestamp": "2025-06-20T20:49:09.232Z"
+  },
+  {
+    "url": "https://www.warwickhotels.com/contact-us",
+    "domain": "warwickhotels.com",
+    "emails": [
+      "groupbookings@warwickhotels.com",
+      "whrsalesus@warwickhotels.com",
+      "whrsales@warwickhotels.com",
+      "whrsalesmena@warwickhotels.com",
+      "whrsalessp@warwickhotels.com",
+      "infoboxny@warwickhotels.com",
+      "info.dallas@warwickhotels.com",
+      "info.denver@warwickhotels.com",
+      "info.sf@warwickhotels.com",
+      "info.seattle@warwickhotels.com",
+      "info.chicago@warwickhotels.com",
+      "info.wpib@warwickhotels.com",
+      "reservations.capital@warwickhotels.com",
+      "info.warwickbrussels@warwickhotels.com",
+      "info.whparis@warwickhotels.com",
+      "info.lyon@warwickhotels.com",
+      "info.geneva@warwickhotels.com",
+      "info.westminster@warwickhotels.com",
+      "info.warwickbarsey@warwickhotels.com",
+      "info@splendid-nice.com",
+      "info.hoteldesthermes@warwickhotels.com",
+      "info.warwickdohahotel@warwickhotels.com",
+      "info.ankara@warwickhotels.com",
+      "info.cantonal@warwickhotels.com",
+      "reservations.alkhobar@warwickhotels.com",
+      "info.palmbeach@warwickhotels.com",
+      "info.warwickstone55@warwickhotels.com",
+      "makeen@warwickhotels.com",
+      "reservations.salsabil@warwickhotels.com",
+      "sales@nuzulwarwick.com",
+      "info.alhamra-palace@warwickhotels.com",
+      "info.riyadh@warwickhotels.com",
+      "info.nwd@warwickhotels.com",
+      "info.fiji@warwickhotels.com",
+      "info.lelagon@warwickhotels.com",
+      "navitireservations@warwickhotels.com",
+      "res.tambuasands@warwickhotels.com",
+      "res.tokatoka@warwickhotels.com",
+      "info.celebrity@warwickhotels.com"
+    ],
+    "timestamp": "2025-06-20T20:49:09.292Z"
+  },
+  {
+    "url": "https://www.oyotimessquare.com/about",
+    "domain": "oyotimessquare.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:09.552Z"
+  },
+  {
+    "url": "https://www.thecarnegiehotel.com/about-us",
+    "domain": "thecarnegiehotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:09.583Z"
+  },
+  {
+    "url": "https://www.themarkhotel.com/information/contact/",
+    "domain": "themarkhotel.com",
+    "emails": [
+      "reservations@themarkhotel.com"
+    ],
+    "timestamp": "2025-06-20T20:49:09.766Z"
+  },
+  {
+    "url": "https://www.ihg.com/content/gb/en/customer-care/contact-us#maincontent",
+    "domain": "ihg.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:09.838Z"
+  },
+  {
+    "url": "https://www.hotelhaydennyc.com/about-hotel-hayden",
+    "domain": "hotelhaydennyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:09.873Z"
+  },
+  {
+    "url": "https://archerhotel.com/contact",
+    "domain": "archerhotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:09.895Z"
+  },
+  {
+    "url": "https://www.1hotels.com/contact-us",
+    "domain": "1hotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:09.936Z"
+  },
+  {
+    "url": "https://www.hotelhaydennyc.com/contact-us",
+    "domain": "hotelhaydennyc.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:10.672Z"
+  },
+  {
+    "url": "https://thelucernehotel.com/contact",
+    "domain": "thelucernehotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:11.103Z"
+  },
+  {
+    "url": "https://www.hotel48lexnewyork.com/contact-us",
+    "domain": "hotel48lexnewyork.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:11.492Z"
+  },
+  {
+    "url": "https://www.ameritanianyc.com/our-hotel/contact-location",
+    "domain": "ameritanianyc.com",
+    "emails": [
+      "reservations@ameritanianyc.com"
+    ],
+    "timestamp": "2025-06-20T20:49:11.529Z"
+  },
+  {
+    "url": "https://wyndhamhotels.com",
+    "domain": "wyndhamhotels.com",
+    "emails": [
+      "accessibility@wyndham.com"
+    ],
+    "timestamp": "2025-06-20T20:49:11.600Z"
+  },
+  {
+    "url": "https://arlohotels.com/about/contact-us/",
+    "domain": "arlohotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:12.117Z"
+  },
+  {
+    "url": "https://kitano.princehotels.com/zh-hant/about-us/",
+    "domain": "kitano.princehotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:12.636Z"
+  },
+  {
+    "url": "https://kitano.princehotels.com/ko/about-us/",
+    "domain": "kitano.princehotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:12.712Z"
+  },
+  {
+    "url": "https://www.princehotels.com/about-us/",
+    "domain": "princehotels.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:14.272Z"
+  },
+  {
+    "url": "https://sohohouse.com",
+    "domain": "sohohouse.com",
+    "emails": [
+      "membershipadmin@sohohouse.com",
+      "u003emembershipadmin@sohohouse.com",
+      "membership@sohohouse.com",
+      "wilfredo@sohohouse.com"
+    ],
+    "timestamp": "2025-06-20T20:49:15.819Z"
+  },
+  {
+    "url": "https://www.thecarnegiehotel.com/contact-us",
+    "domain": "thecarnegiehotel.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:16.417Z"
+  },
+  {
+    "url": "https://citizenm.com",
+    "domain": "citizenm.com",
+    "emails": [
+      "richard@richardpowers.co.uk"
+    ],
+    "timestamp": "2025-06-20T20:49:17.880Z"
+  },
+  {
+    "url": "https://www.fourseasons.com/about_four_seasons/",
+    "domain": "fourseasons.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:33.416Z"
+  },
+  {
+    "url": "https://www.fourseasons.com/es-es/about_four_seasons/",
+    "domain": "fourseasons.com",
+    "emails": [],
+    "timestamp": "2025-06-20T20:49:36.862Z"
+  }
+]
